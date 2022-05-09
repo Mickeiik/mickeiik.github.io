@@ -30,8 +30,19 @@ url: "https://mickeiik.github.io" # the base hostname & protocol for your site, 
 twitter_username: jekyllrb
 github_username:  jekyll
 
+navbar-links:
+  About Me: "about"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
+
+avatar: "/assets/img/avatar-icon.png"
+
+
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: daattali/beautiful-jekyll
 plugins:
   - jekyll-feed
 
