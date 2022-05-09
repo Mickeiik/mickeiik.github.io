@@ -39,7 +39,8 @@ navbar-links:
 
 avatar: "/assets/img/avatar-icon.png"
 
-google_analytics: "G-520MRVTTL8"
+#google_analytics: G-520MRVTTL8
+gtag: G-520MRVTTL8
 
 # Build settings
 #theme: minima
