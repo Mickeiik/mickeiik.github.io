@@ -37,8 +37,9 @@ navbar-links:
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/avatar-icon.jpeg"
 
+#google_analytics: G-520MRVTTL8
 gtag: G-520MRVTTL8
 
 # Build settings
