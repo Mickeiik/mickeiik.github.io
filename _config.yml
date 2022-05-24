@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-domain: mickeiik.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
+domain: mickeiik.github.io
 url: "https://mickeiik.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -39,7 +39,6 @@ navbar-links:
 
 avatar: "/assets/img/avatar-icon.png"
 
-#google_analytics: G-520MRVTTL8
 gtag: G-520MRVTTL8
 
 # Build settings
